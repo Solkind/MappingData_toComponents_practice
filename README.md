@@ -1,0 +1,2 @@
+# MappingData_toComponents_practice
+Created with CodeSandbox
